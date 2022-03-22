@@ -11,6 +11,7 @@ Java,C#,코틀린 위주로 공부를 하고 있고 개발자가 되기 위해 �
 ![HTML5](https://img.shields.io/badge/HTML5-007396.svg?&style=for-the-badge&logo=HTML5&logocolor=white)
 ![Android](https://img.shields.io/badge/Android-008000.svg?&style=for-the-badge&logo=Android&logocolor=white)
 ![C++](https://img.shields.io/badge/C++-0067a3.svg?&style=for-the-badge&logo=Java&logocolor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-008000.svg?&style=for-the-badge&logo=Java&logocolor=white)
 
 ### Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logocolor=white)
@@ -18,3 +19,4 @@ Java,C#,코틀린 위주로 공부를 하고 있고 개발자가 되기 위해 �
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logocolor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-008000.svg?&style=for-the-badge&logo=Android%20Studio&logocolor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=Unity&logocolor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007396.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logocolor=white)
