@@ -1,5 +1,5 @@
 # Son Tae Young 😄
-Java,C#,코틀린 위주로 공부를 하고 있고 개발자가 되기 위해 열심히 성장중입니다.
+Java,C,코틀린 위주로 공부를 하고 있고 개발자가 되기 위해 열심히 성장중입니다.
 ### R.I.P GIMUTAEHAN😭😭😭😭😭
 ### HTML은 프로그래밍언어가 아니다.
 ![alfredsty's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfredsty&show_icons=true&theme=radical)
