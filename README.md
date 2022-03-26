@@ -10,8 +10,11 @@ Java,C,코틀린 위주로 공부를 하고 있고 개발자가 되기 위해 �
 ![Java](https://img.shields.io/badge/Java-FF160B.svg?&style=for-the-badge&logo=Java&logocolor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-007396.svg?&style=for-the-badge&logo=HTML5&logocolor=white)
 ![Android](https://img.shields.io/badge/Android-008000.svg?&style=for-the-badge&logo=Android&logocolor=white)
-![C++](https://img.shields.io/badge/C++-0067a3.svg?&style=for-the-badge&logo=Java&logocolor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-008000.svg?&style=for-the-badge&logo=Java&logocolor=white)
+![C#](https://img.shields.io/badge/C++-0067a3.svg?&style=for-the-badge&logo=C#&logocolor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-008000.svg?&style=for-the-badge&logo=Kotlin&logocolor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logocolor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JAVASCRIPT&logocolor=white)
+
 
 ### Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logocolor=white)
