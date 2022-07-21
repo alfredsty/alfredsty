@@ -1,4 +1,5 @@
-# Son Tae Young 😄
+<div align="center">
+ # Son Tae Young 😄
 Java,C#,코틀린 위주로 공부를 하고 있고 개발자가 되기 위해 열심히 성장중입니다.
 
 ![alfredsty's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfredsty&show_icons=true&theme=radical)
@@ -27,3 +28,4 @@ Java,C#,코틀린 위주로 공부를 하고 있고 개발자가 되기 위해 �
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007396.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logocolor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logocolor=white)
+</div>
