@@ -3,7 +3,9 @@
 <div align="center">
 
 #  Introduce Myself
-### 저는 개발자가 꿈인 학생입니다. 4차산업에 관심이 많고 게임개발을 취미로 하고 있으며 지금은 앱개발자가 되기 위해 열심히 공부 중 입니다.
+### 저는 개발자가 꿈인 학생입니다. 
+### 4차산업에 관심이 많고 게임개발을 취미로 하고 있으며 
+### 지금은 앱개발자가 되기 위해 열심히 공부 중 입니다.
 
 ![alfredsty's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfredsty&show_icons=true&theme=radical)<br>
 ![alfredsty's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredsty&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
