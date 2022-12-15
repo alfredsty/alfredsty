@@ -33,4 +33,4 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logocolor=white)
 </div>
 
-![View](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGaeduck-0908%2FGaeduck-0908%2Fhit-counter&count_bg=%23000000&title_bg=%2300CFFF&icon=&icon_color=%23E7E7E7&title=View&edge_flat=false)
+![View](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falfredsty%2Falfredsty%2Fhit-counter&count_bg=%23000000&title_bg=%2300CFFF&icon=&icon_color=%23E7E7E7&title=View&edge_flat=false)
